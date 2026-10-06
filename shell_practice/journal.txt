@@ -1,0 +1,5 @@
+Project owner: Chrispin Odiwuor
+Started shell practice for SE103-Week5
+My first attempt had an error in my command
+I corrected the command and got a success result
+Saving command outputs helps me review my work
