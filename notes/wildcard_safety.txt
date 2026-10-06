@@ -1,0 +1,10 @@
+Student Name: Chrispin Odiwuor
+
+What * meant in my pattern:
+The * wildcard matched any characters after the word data and before .txt. Therefore, data*.txt matched data1.txt, data2.txt, and data3.txt.
+
+Why I listed matches before copying:
+I listed the matching files first so I could verify exactly which files the wildcard would select. This reduces the chance of copying unintended files.
+
+Why wildcards are dangerous with delete commands:
+A wildcard can match many files at once, so using it with a delete command can remove more files than intended. I should always inspect the matches before performing a destructive operation. I should be especially careful with commands such as rm.
