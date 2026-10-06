@@ -1,0 +1,13 @@
+Student Name: Chrispin Odiwuor
+
+What I practiced in the shell:
+I practiced using redirection operators to create and append information to files. I also practiced grep, find, and pipes to search for information and combine commands. I learned how wildcards can select multiple files based on a pattern. I also practiced copying matching files after checking the wildcard results first.
+
+How GitHub changed my submission habits:
+Using GitHub makes me more careful about file names and repository structure. I have to make sure that required files are committed and pushed so that they are visible in the repository. It also allows my work to be checked through my commit history. This has encouraged me to verify my files before submitting.
+
+One mistake I made and how I fixed it:
+One mistake I made was not checking the exact required file structure before committing my work. I fixed it by checking the repository contents with shell commands and making sure the required files were present. I also verified my commit messages before pushing.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to match SE103-Week5 because the automated checker uses the required repository name to locate my submission. Using the exact name makes sure the checker can find the correct project.
