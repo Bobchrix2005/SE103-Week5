@@ -1,0 +1,13 @@
+Student Name: Chrispin Odiwuor
+
+What grep helped me do:
+grep helped me search for specific text inside a file. I used it to find the line containing the word error in my journal.
+
+What find helped me do:
+find helped me locate files that matched a particular pattern. I used it to find all .txt files inside the shell_practice folder.
+
+What the pipe helped me do:
+The pipe allowed me to send the output of one command into another command. I used it to list files and then filter the results to show text files.
+
+Difference between > and >>:
+The > operator creates or overwrites a file with command output. The >> operator appends new output to the end of an existing file without removing its previous contents.
