@@ -1,0 +1,7 @@
+Student Name: Chrispin Odiwuor
+GitHub Username: Bobchrix2005
+Repository: SE103-Week5
+Repository URL: https://github.com/Bobchrix2005/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+I would verify the required filenames and repository structure before making each commit. I would also run a final file and Git status check before submitting so that missing files or naming mistakes are caught early.
